@@ -46,13 +46,10 @@ header {
     box-shadow: 0px 3px 7px 0px #0000009e;
     min-width: 320px;
     min-height: 150px;
-    /*padding: 10px 0px 10px 0px; */
 }
 
 nav {
     background-color: #205c3c;
-    /* height: auto;
-    width: auto; */
     margin-top: 20px;
     padding: 6px 0px;
     font-size: 1.15em;
@@ -71,7 +68,6 @@ header > p {
 
 
 nav > a {   
-    /* margin: 6px 15px; */
     padding: 6px; 
     background-color: #205c3c;
     min-width: 30px;
@@ -107,7 +103,6 @@ main {
 }
 
 #video {
-    /* margin: auto; */
     background-color: var(--verde-forte);
     padding: 40%;
     padding-bottom: 20%;
@@ -115,7 +110,6 @@ main {
 }
 
 div#video > iframe{
-    /* margin: 20px 20px 20px 20px;     */
     top: 7%;
     left: 4%;
     width: 91%;
@@ -157,7 +151,6 @@ body {
     max-width: 760px;
     height: auto;
     box-shadow: 0px 3px 7px 0px #0000009e;
-    /* padding: 0px 15px 10px 10px; */
     margin: auto auto 10px auto;
     border-color: #205c3c;
     border: 10px;
@@ -186,7 +179,6 @@ footer > span{
     color: white;
     font-weight: bold;  
 }
-
 
 
 ul{
